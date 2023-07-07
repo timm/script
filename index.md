@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Art of Scripting (code less, but better)
+title:  "Disciplined Scripting (for XAI):  Code Less, but better"
 nav_order: 1
 description: "About this stite"
 permalink: /
@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-# Disciplined Scripting (code less, but better)
+# Disciplined Scripting (for XAI):  Code Less, but Better
 {: .fs-9 }
 
 Tim Menzies, <timm@ieee.org>   
@@ -26,30 +26,52 @@ I'll show you mine.
 -- Jeremy Oxley </em>
 
 Welcome to 
-**Discplined Scripting (code less, but better)**.
+**Discplined Scripting (for XAI): Code Less, but Better**.
 If you're reading this, chances are you want to 
-learn about how to code less, but do more. 
-For example, all our examples will come from AI applications.
-And you might be surprised just how easy it is to build
-those intelligent tools.
+learn how to code less, but do more.  
+Or you want to learn how easy it it to
+make AI 
+applications explainable. Either way, 
+you might be surprised just how easy it will be to build
+intelligent, explainable tools.
 
-I decided to write this because I needed to teach
+I needed to write this because I had to teach
 all my "less, but better" 
-experimental empirical software engineering  tips and tricks.
+tips and tricks.
 My professional life
 is supervising people
 completing
-their Ph.D.s. 
+their Ph.D.s (in _SE for AI_ and _AI for SE_). 
 The better those people get at scripting, the faster they can
 try different ways to get "it" working. 
-So in my school of scripting,
+So in this school of scripting,
 we don't code to deliver "it". Rather, we code to
 explore different "its", then pick the best one.
 
-These come in two parts
+Also,
+this is a _disciplined_ approach so along the way,
+we will touch on many aspects of software engineering. So you can expect
+two kinds of content here:
 
 - **tips** for organizing code
-- additional **smarts** for writing AI tools.
+- as well as dditional **smarts** for writing XAI tools.
+
+
+## <a name=simple>Why I bekieve in simplicty
+
+The general rule of thumb is that tabular data
+can be reduced to around 25% of its columns
+and rows
+
+So one way to simplify anything is to
+delete what is spurious until you are
+left with the essential.
+
+
+This quest for the-simplest-tool-possible
+is not very fashionable these days.
+At the time of this writing there is much
+buzz about generatative AI-- which requires
 
 
 We take  other people's
@@ -75,23 +97,6 @@ really contains $r \subset R$ of exemplary rows
 [^PROTOTYPES]: asdas
 
 [^SSL]: adass
-
-## <a name=simple>Why I bekieve in simplicty
-
-The general rule of thumb is that tabular data
-can be reduced to around 25% of its columns
-and rows
-
-So one way to simplify anything is to
-delete what is spurious until you are
-left with the essential.
-
-
-This quest for the-simplest-tool-possible
-is not very fashionable these days.
-At the time of this writing there is much
-buzz about generatative AI-- which requires
-
 
 
 
