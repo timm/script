@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-# Art of Scripting (code less, but better)
+# Disciplined Scripting (code less, but better)
 {: .fs-9 }
 
 Tim Menzies, <timm@ieee.org>   
@@ -16,31 +16,42 @@ http://timm/fyi
 
 
 {{ toc }}
-<img width=400 align=right src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-code-commenting.png">
+<img width=400 align=right src="/img/sam.png">
 
 
 ## <a name=abaout>About this tutorial</a>
 
+<em>Show me some discipline,   
+I'll show you mine.   
+-- Jeremy Oxley </em>
+
 Welcome to 
-the **Art of Scripting (code less, but better)**.
+**Discplined Scripting (code less, but better)**.
 If you're reading this, chances are you want to 
 learn about how to code less, but do more. 
-to go further and learn how to script up very
-simple, yet very powerful, AI tools.
-Well, you've come to the right place!
+For example, all our examples will come from AI applications.
+And you might be surprised just how easy it is to build
+those intelligent tools.
 
 I decided to write this because I needed to teach
 all my "less, but better" 
-experimental empirical AI tips and tricks.
+experimental empirical software engineering  tips and tricks.
+My professional life
+is supervising people
+completing
+their Ph.D.s. 
+The better those people get at scripting, the faster they can
+try different ways to get "it" working. 
+So in my school of scripting,
+we don't code to deliver "it". Rather, we code to
+explore different "its", then pick the best one.
+
 These come in two parts
 
 - **tips** for organizing code
 - additional **smarts** for writing AI tools.
 
-My professional life
-is supervising people
-completing
-their Ph.D.s. 
+
 We take  other people's
 work then
 throw away stuff until 
