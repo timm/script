@@ -16,7 +16,6 @@ http://timm/fyi
 
 
 {{ toc }}
-<img width=400 align=right src="img/sam.png">
 
 
 ## <a name=abaout>About this tutorial</a>
@@ -24,6 +23,8 @@ http://timm/fyi
 <em>Show me some discipline,   
 I'll show you mine.   
 -- Jeremy Oxley </em>
+
+<img width=400 align=right src="img/sam.png">
 
 Welcome to 
 **Discplined Scripting (for XAI): Code Less, but Better**.
