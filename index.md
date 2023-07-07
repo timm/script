@@ -1,23 +1,24 @@
 ---
 layout: minimal
-title: Home
+title: Art of Scripting (code less, but better)
 nav_order: 1
 description: "About this stite"
 permalink: /
 ---
 
-# Learn You Smart Scripting for Great Good!
+
+# Art of Scripting (code less, but better)
 {: .fs-9 }
 
-<img width=150 align=right src="/img/logo.png">
+<img width=400 align=right src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-code-commenting.png">
 
 
 ## <a name=abaout>About this tutorial</a>
 
 Welcome to 
-**Learn You Smart  Scripting for Great Good!**
+the **Art of Scripting (code less, but better)**.
 If you're reading this, chances are you want to 
-learn about scripting. Perhaps you even want
+learn about how to code less, but do more. 
 to go further and learn how to script up very
 simple, yet very powerful, AI tools.
 Well, you've come to the right place!
