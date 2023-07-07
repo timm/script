@@ -16,7 +16,7 @@ http://timm/fyi
 
 
 {{ toc }}
-<img width=400 align=right src="/img/sam.jpg">
+<img width=400 align=right src="img/sam.png">
 
 
 ## <a name=abaout>About this tutorial</a>
