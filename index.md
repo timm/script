@@ -14,6 +14,8 @@ toc: true
 Tim Menzies, <timm@ieee.org>   
 http://timm/fyi
 
+
+{{ toc }}
 <img width=400 align=right src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-code-commenting.png">
 
 
