@@ -8,14 +8,14 @@ toc: true
 ---
 
 
-# Disciplined Scripting (for XAI):  Code Less, but Better
+# Smarter Scripting:  Code Less, but Better
 {: .fs-9 }
 
 Tim Menzies, <timm@ieee.org>   
-http://timm/fyi
+http://timm.fyi
 
 
-{{ toc }}
+ 
 
 
 ## <a name=abaout>About this tutorial</a>
@@ -27,7 +27,7 @@ I'll show you mine.
 <img width=400 align=right src="img/sam.png">
 
 Welcome to 
-**Discplined Scripting (for XAI): Code Less, but Better**.
+**Smarter Scripting: Code Less, but Better**.
 If you're reading this, chances are you want to 
 learn how to code less, but do more.  
 Or you want to learn how easy it it to
@@ -35,6 +35,15 @@ make AI
 applications explainable. Either way, 
 you might be surprised just how easy it will be to build
 intelligent, explainable tools.
+
+Also,
+this is a _disciplined_ approach so along the way,
+we will touch on many aspects of software engineering. So you can expect
+two kinds of content here:
+
+- **tips** for organizing code
+- as well as dditional **smarts** for writing XAI tools.
+
 
 I needed to write this because I had to teach
 all my "less, but better" 
@@ -49,16 +58,12 @@ So in this school of scripting,
 we don't code to deliver "it". Rather, we code to
 explore different "its", then pick the best one.
 
-Also,
-this is a _disciplined_ approach so along the way,
-we will touch on many aspects of software engineering. So you can expect
-two kinds of content here:
 
-- **tips** for organizing code
-- as well as dditional **smarts** for writing XAI tools.
+<br clear=all>
 
+## <a name=simple>Why I believe in simplicty
 
-## <a name=simple>Why I bekieve in simplicty
+<img width=400 align=right src="img/simple.png">
 
 The general rule of thumb is that tabular data
 can be reduced to around 25% of its columns
@@ -87,6 +92,10 @@ There's deep theoretical reasons why
 that is so [^INTRINSIC] [^PROTOTYPES] [^SSL]
 but the practical upshot is that very
 simple methods can be remarkably effective.
+
+<br clear=all>
+
+## References
 
 [^INTRINSIC]: One mantra of machine learning is that higher dimensional data can be reduced to a _lower dimensional manifold_ with little to no loss in signal.  For example, suppose some balls are lying on the floor of a room. Even though that room has three dimensions (height, with, depth), the balls are only using two (since they are ignoring the height dimension).  To say that another way,  the number of _used_ dimensions can actually be (much) smaller than the number of _possible_ dimensions.  Often, tabular data with $C$ columns can be reduced to $C/4$ columns, or even much less [^kohavi97]. 
 
