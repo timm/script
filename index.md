@@ -7,6 +7,27 @@ permalink: /
 toc: true
 ---
 
+# Timm's Tips and Tricks for Smarter Scripting
+
+Code less
+
+use non-parametric
+
+use symbols.
+
+find the keys
+
+DRY not WET. rule of 3
+
+let constraints guide your exploration (not the other way around)
+
+self-documenting code. comments, type hits, parse comments from settings, self-documenting mak files
+
+return not zero for errors
+
+write tests
+
+write little languages (regex, column headers, argparse)
 
 # Disciplined Scripting (for XAI):  Code Less, but Better
 {: .fs-9 }
@@ -55,7 +76,7 @@ we will touch on many aspects of software engineering. So you can expect
 two kinds of content here:
 
 - **tips** for organizing code
-- as well as dditional **smarts** for writing XAI tools.
+- as well as **tricks** for writing XAI tools.
 
 
 ## <a name=simple>Why I bekieve in simplicty
