@@ -9,7 +9,11 @@ toc: true
 
 # Timm's Tips and Tricks for Smarter Scripting
 
+
 Code less
+add a test engine
+
+add comments parser (for settings and th theor defaults)
 
 use non-parametric
 
@@ -28,6 +32,9 @@ return not zero for errors
 write tests
 
 write little languages (regex, column headers, argparse)
+- command line has a little language (booleans dot need args)
+- column ehaders
+= setting defaults
 
 # Smarter Scripting:  Code Less, but Better
 {: .fs-9 }
